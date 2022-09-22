@@ -20,7 +20,7 @@ If the user no longer requires the weather outlook for the searched cities, the 
 ![Blue header with white Weather Dashboard title, search for a city search bar on left side, and user search history has been cleared](https://raw.githubusercontent.com/rachael-pluta/weather-dashboard/main/assets/images/cleared-search-history.png)
 
 ## Deployed Webpage
-Available here
+Available here https://rachael-pluta.github.io/weather-dashboard/
 
 ## Credits
 OpenWeather API - Current Weather Data available here https://openweathermap.org/current
