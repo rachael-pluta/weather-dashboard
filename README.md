@@ -9,9 +9,15 @@ N/A
 ## Usage
 The user can retrieve the current weather and the five-day weather outlook for that city by entering the name of the city in the search bar.
 
+![Blue header with white Weather Dashboard title, search for a city search bar on left side, and displaying current weather and five-day weather forecast for Melbourne](https://raw.githubusercontent.com/rachael-pluta/weather-dashboard/main/assets/images/weather-forecast-melbourne.png)
+
 The user's search history is saved, so that they can click on the name of a city they previously searched to retrieve the weather information again.
 
+![Blue header with white Weather Dashboard title, search for a city search bar on left side, and showing user search history for Melbourne, Brisbane, Adelaide and Sydney](https://raw.githubusercontent.com/rachael-pluta/weather-dashboard/main/assets/images/search-history.png)
+
 If the user no longer requires the weather outlook for the searched cities, the user can click on the 'Clear Search History' button so that this information is no longer displayed.
+
+![Blue header with white Weather Dashboard title, search for a city search bar on left side, and user search history has been cleared](https://raw.githubusercontent.com/rachael-pluta/weather-dashboard/main/assets/images/cleared-search-history.png)
 
 ## Deployed Webpage
 Available here
